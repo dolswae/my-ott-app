@@ -1,0 +1,18 @@
+YAML
+name: my_ott_app
+description: "A private OTT app for my family"
+publish_to: "none"
+version: 1.0.0+1
+
+environment:
+  sdk: ">=3.0.0 <4.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  video_player: ^2.8.2
+  chewie: ^1.7.5
+  http: ^1.2.0
+
+flutter:
+  uses-material-design: true
