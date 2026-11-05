@@ -1,4 +1,3 @@
-YAML
 name: my_ott_app
 description: "A private OTT app for my family"
 publish_to: "none"
